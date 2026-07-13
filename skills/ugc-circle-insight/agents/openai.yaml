@@ -1,0 +1,4 @@
+interface:
+  display_name: "UGC 圈层洞察"
+  short_description: "从 UGC 内容、评论与互动中提炼圈层情绪和活动玩法"
+  default_prompt: "使用 $ugc-circle-insight 研究一个陌生的 UGC 圈层或术语；先确认平台登录与只读授权，再从原生内容和互动行为中完成速览并提出策略追问。"
