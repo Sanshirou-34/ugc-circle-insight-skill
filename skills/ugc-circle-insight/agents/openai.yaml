@@ -1,4 +1,4 @@
 interface:
   display_name: "UGC 圈层洞察"
-  short_description: "从圈层内容与既有活动中提炼情绪、参与机制和 UGC 玩法"
-  default_prompt: "使用 $ugc-circle-insight 研究一个陌生圈层；先确认平台登录与只读授权，再同步扫描圈层情绪、线上线下活动案例与参与机制，输出活动玩法优先的速览。"
+  short_description: "从圈层黑话、互动与活动案例中提炼情绪、参与机制和 UGC 玩法"
+  default_prompt: "使用 $ugc-circle-insight 研究一个陌生圈层；先确认平台登录与只读授权，再扫描圈层情绪、黑话语录、线上线下活动与参与机制，输出活动玩法优先的速览。"
